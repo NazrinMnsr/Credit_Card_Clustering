@@ -22,7 +22,6 @@
 - [Əsas Tapıntılar](#-əsas-tapıntılar)
 - [Quraşdırma və İstifadə](#-quraşdırma-və-istifadə)
 - [Layihə Strukturu](#-layihə-strukturu)
-- [Məhdudiyyətlər və Gələcək İşlər](#-məhdudiyyətlər-və-gələcək-işlər)
 
 ---
 
