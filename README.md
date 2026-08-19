@@ -4,7 +4,7 @@
 
 **Unsupervised learning ilə müştəri seqmentasiyası və anomaliya aşkarlanması**
 
-![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.12.5-3776AB?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.9.0-F7931E?logo=scikitlearn&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
